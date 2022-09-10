@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app-smart-brain/static/css/main.42a97f6f.css",
+    "main.js": "/react-app-smart-brain/static/js/main.24853c9e.js",
+    "static/js/787.ce14bbbc.chunk.js": "/react-app-smart-brain/static/js/787.ce14bbbc.chunk.js",
+    "static/media/brain.svg": "/react-app-smart-brain/static/media/brain.e0184f21b35b11d6c8411096715d5d5c.svg",
+    "index.html": "/react-app-smart-brain/index.html",
+    "main.42a97f6f.css.map": "/react-app-smart-brain/static/css/main.42a97f6f.css.map",
+    "main.24853c9e.js.map": "/react-app-smart-brain/static/js/main.24853c9e.js.map",
+    "787.ce14bbbc.chunk.js.map": "/react-app-smart-brain/static/js/787.ce14bbbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a97f6f.css",
+    "static/js/main.24853c9e.js"
+  ]
+}
